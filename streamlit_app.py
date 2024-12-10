@@ -1,5 +1,11 @@
+!pip install kaggle
 import streamlit as st
+import numpy as np
+import pandas as pd
+import altair as alt
+import kagglehub
 
-st.title('🎈 App Name')
+st.title('🎈 Football Statistics App')
+st.markdown('''
 
-st.write('Hello world!')
+
