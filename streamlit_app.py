@@ -6,6 +6,6 @@ import altair as alt
 import kagglehub
 
 st.title('🎈 Football Statistics App')
-st.markdown('''
+
 
 
