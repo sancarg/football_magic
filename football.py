@@ -12,3 +12,5 @@ import base64
 import sys
 cwd = os.getcwd()
 sys.path.insert(0, cwd)
+
+from transfermarkt_datasets.core.dataset import Dataset
