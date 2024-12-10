@@ -5,7 +5,6 @@ import os
 
 st.title('⚽ Football Statistics App')
 # Load the dataset from the URL 
-url = "https://sports-statistics.com/sports-data/fifa-2022-dataset-csvs/players_22.csv" 
-df = pd.read_csv(url)
+df = pd.read_csv(https://github.com/abineshta/FIFA-22-complete-player-dataset-EDA/blob/main/players_22.csv)
 
 
