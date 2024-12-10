@@ -1,14 +1,14 @@
 # ⚽ World of Football 
-```
+
 This magnificent app allows you to explore football competitions, games, clubs, players, and appearances.
-```
+
 
 Football Data from Transfermarket dataset has;
 - 60,000+ games from many seasons on all major competitions
 - 400+ clubs from those competitions
 - 30,000+ players from those clubs
- -400,000+ player market valuations historical records
- -1,200,000+ player appearance records from all games
+-400,000+ player market valuations historical records
+-1,200,000+ player appearance records from all games
 
 ## Demo App
 
