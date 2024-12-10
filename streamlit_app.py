@@ -7,7 +7,7 @@ import os
 os.environ['KAGGLE_CONFIG_DIR'] = "/root/.kaggle"
 
 # Download the dataset from Kaggle 
-!kaggle datasets download -d davidcariboo/player-scores
+kaggle datasets download -d davidcariboo/player-scores
 
 st.title('⚽ Football Statistics App')
 
