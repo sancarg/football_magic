@@ -5,7 +5,7 @@ import os
 
 st.title('⚽ Football Statistics App')
 # Load the dataset from the URL
-url = "https://www.kaggle.com/datasets/davidcariboo/player-scores/download/player_valuations.csv"
+#url = "https://www.kaggle.com/datasets/davidcariboo/player-scores/download/player_valuations.csv"
 
 
 
