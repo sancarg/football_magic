@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import altair as alt
 
-st.title('🎈 Football Statistics App')
+st.title('⚽ Football Statistics App')
 
 
 
